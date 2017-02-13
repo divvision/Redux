@@ -1,0 +1,43 @@
+{
+  "name": "react_redux",
+  "version": "1.0.0",
+  "description": "Tutorial redux https://stormpath.com/blog/build-a-redux-powered-react-application",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux"
+  ],
+  "author": "Benjamin Pirotte",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@types/react": "^0.14.36",
+    "@types/react-dom": "^0.14.17",
+    "awesome-typescript-loader": "^2.2.4",
+    "babel": "^6.5.2",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "typescript": "2.0.3",
+    "webpack": "^1.9.6",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "@types/react-redux": "^4.4.36",
+    "@types/redux": "^3.6.0",
+    "immutable": "^3.8.1",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
+  }
+}
